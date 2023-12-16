@@ -25,9 +25,10 @@ ___
     
 </p>
 
-# IGX
+# SIMPLE
 
-Tools INSTAGRAM Indonesia Target BruteForce
+Tools FACEBOOK RASA PREMIUM Indonesia Target BruteForce
+
 Script Ini Adalah Script Terlarang
 
 
